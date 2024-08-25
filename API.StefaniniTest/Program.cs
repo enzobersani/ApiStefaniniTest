@@ -1,9 +1,7 @@
 ﻿using API.StefaniniTest;
 using API.StefaniniTest.Domain;
-using API.StefaniniTest.Domain.Interfaces.UnitOfWork;
 using API.StefaniniTest.Domain.Notifications;
 using API.StefaniniTest.Infrastructure;
-using API.StefaniniTest.Infrastructure.UnitIOfWork;
 using FluentValidation.AspNetCore;
 using MediatR;
 using Microsoft.EntityFrameworkCore;

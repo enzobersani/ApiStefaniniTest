@@ -18,7 +18,7 @@ namespace API.StefaniniTest.Controllers
         }
 
         /// <summary>
-        /// Cadastro de pedido. Possível informar itens juntamente com o novo pedido.
+        /// Upsert de pedido. Possível informar itens juntamente com o novo pedido.
         /// </summary>
         /// <param name="request"></param>
         /// <returns></returns>
