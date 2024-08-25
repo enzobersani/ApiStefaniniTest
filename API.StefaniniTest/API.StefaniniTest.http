@@ -1,0 +1,6 @@
+@API.StefaniniTest_HostAddress = http://localhost:5055
+
+GET {{API.StefaniniTest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
